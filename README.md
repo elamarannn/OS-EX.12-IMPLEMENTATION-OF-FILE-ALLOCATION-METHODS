@@ -1,11 +1,11 @@
 # OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS
 
 AIM:
+
 To implement file management using sequential list.
 
-
-
 ALGORITHM:
+
 Step 1: Start the program.
 
 Step 2: Get the number of memory partition and their sizes.
@@ -72,11 +72,13 @@ OUTPUT:
 ![280476190-c44cad00-25f9-456c-92c0-7487282431e7](https://github.com/elamarannn/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/113497531/58e91238-38e5-4b5e-8ae3-14766961bb3b)
 
 RESULT:
+
 Thus, file management using sequential list is implemented successfully.
 
 2.FILE MANAGEMENT USING INDEXED ALLOCATION
 
 Aim:
+
 To implement file management using Indexed list.
 
 Program:
@@ -141,10 +143,12 @@ Output:
 ![280476286-09215dd5-7007-46b5-a6f0-ffe0441e2cf2](https://github.com/elamarannn/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/113497531/480178bb-81cd-4036-966a-196e6731b400)
 
 Result:
+
 Thus, file management using Indexed list is implemented successfully.
 
 3.FILE MANAGEMENT USING LINKED ALLOCATION
 Aim:
+
 To implement file management using Linked list.
 
 Program:
@@ -209,9 +213,11 @@ int main() {
 }
 ```
 Output:
+
 ![280476338-e052d9dc-5d47-4e08-b465-83bc3c4897c8](https://github.com/elamarannn/OS-EX.12-IMPLEMENTATION-OF-FILE-ALLOCATION-METHODS/assets/113497531/d31394a6-f930-4513-bf8f-62546616ccf9)
 
 Result:
+
 Thus, file management using Linked list is implemented successfully.
 
 
